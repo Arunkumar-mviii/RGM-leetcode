@@ -1,2 +1,2 @@
-# RGM-leetcode
-a leet code solution.
+# RGM-leetcode ( avinash ) solution and explaination
+a will be uploaded soon
