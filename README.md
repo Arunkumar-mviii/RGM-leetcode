@@ -2,4 +2,4 @@
 
 a will be uploaded soon
 
-[link to c notes pdf](C-Notes.pdf)
+<a href="./C-Notes.pdf" download>click to download c notes</a>
