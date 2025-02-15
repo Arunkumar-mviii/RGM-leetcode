@@ -1,4 +1,4 @@
-# RGM-leetcode ( avinash ) solution and explaination
+# RGM-leetcode (Er.Arunkumar/Tech Lead) solution and explaination
 
 a will be uploaded soon
 
